@@ -1,4 +1,6 @@
-package com.biblioteca.digital.domain.service;
+package com.biblioteca.digital.domain.service.factory.creators;
+
+import com.biblioteca.digital.domain.service.FileUploader;
 
 public abstract class FileUploaderCreator {
 
